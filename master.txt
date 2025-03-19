@@ -1,2 +1,4 @@
-master.txt입니다. 
-master에서 작성합니다.
+<<<<<<< HEAD
+master
+kim
+master.txt입니다.
