@@ -1,3 +1,7 @@
 a.txt입니다.
+<<<<<<< HEAD
 한줄 더 추가입니다.
 한줄 더 추가.JooHJooHyukParkyukPark
+=======
+a.txt수정합니다.
+>>>>>>> ab1c53e (commit message)
